@@ -1,4 +1,4 @@
-# ใบงานการทดลองที่ 2: การบริหารจัดการ Moodle LMS สำหรับผู้ดูแลระบบ
+<img width="1877" height="1079" alt="image" src="https://github.com/user-attachments/assets/6ed59944-3cfe-426a-bdc9-b0607a1fba6d" /># ใบงานการทดลองที่ 2: การบริหารจัดการ Moodle LMS สำหรับผู้ดูแลระบบ
 
 **วัตถุประสงค์:** เพื่อให้นักศึกษาสามารถ
 1. อธิบายแนวทางการวางแผนโครงสร้างระบบ Moodle สำหรับสถานศึกษาได้
@@ -377,7 +377,7 @@ Default values
 
 **บันทึกรูปหน้า Users (Student):** 
 ```
- # บันทึกรูปหน้า Users
+<img width="1877" height="1079" alt="image" src="https://github.com/user-attachments/assets/92109c9f-3dff-44e5-922f-e2a3a4b7a1c5" />
 ```
 
 **Upload Users (Teacher):**
@@ -385,7 +385,7 @@ Default values
 
 **บันทึกรูปหน้า Users (Teacher):** 
 ```
- # บันทึกรูปหน้า Users
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44e79370-6b0c-4e2d-bc57-d5157ad05a9a" />
 ```
 ---
 
@@ -425,7 +425,7 @@ Reset รหัสผ่านทั้งหมด (ไม่ต้องสร
 
 **บันทึกรูปหน้า Course :** 
 ```
- # บันทึกรูปหน้า Course
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/50ffc5a6-0953-41d4-9153-07565f02a86d" />
 ```
 
 #### 5. ตรวจสอบผลลัพธ์
