@@ -170,7 +170,7 @@ Site administration > Courses > Manage courses and categories
 <img width="1896" height="867" alt="image" src="https://github.com/user-attachments/assets/63967444-aa73-4f61-a33e-ffc92a354e57" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a96d9975-bc6f-4cc3-9c77-1cc869b02171" />
 
-```
+
 
 ### 3: สร้างและจัดการ Cohorts 
 **3.1 สร้างไฟล์ `cohorts.csv`:** ที่มีรายละเอียดด้านล่าง (สำหรับระดับมัธยมศึกษา) โดยเลือกเข้ารหัสเป็น UTF-8
@@ -324,7 +324,7 @@ CSV settings:
 **บันทึกรูปหน้า Cohorts ที่สร้างแล้ว:** 
 
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/d0061461-fa27-4fea-928b-9cdeeeb86656" />
-```
+
 
 ### 4: Bulk User Upload
 
